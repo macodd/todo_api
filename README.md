@@ -1,4 +1,4 @@
-#TODO Api
+# TODO Api
 Simple Todo Api using Node.js along with the following libraries:
 * express
 * sequelize
